@@ -1,0 +1,11 @@
+{
+  "item.allthethings.moonstone": "Moonstone",
+  "item.allthethings.sunstone": "Sunstone",
+  "item.allthethings.mysterious_fabric": "Mysterious Fabric",
+
+  "block.allthethings.moonstone_ore": "Ore of the Moon",
+  "block.allthethings.moonstone_block": "Block of the Moon",
+
+
+  "itemGroup.mainTab": "All The Things"
+}
